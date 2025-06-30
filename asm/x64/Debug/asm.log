@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Redmi\source\repos\asm\asm\FileName.cpp(20,44): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Redmi\source\repos\asm\asm\FileName.cpp(23,15): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  asm.vcxproj -> C:\Users\Redmi\source\repos\asm\x64\Debug\asm.exe
