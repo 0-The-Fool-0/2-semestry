@@ -1,0 +1,11 @@
+True example:
+{e02fa0e4-01ad-090A-c130-0d05a0008ba0}
+e02fd0e4-00fd-090A-ca300d00a0038ba0
+e02fd0e4-00fd-090A-ca30-0*00a0038ba0
+e02fd0e4--00fd-090A-ca30-0d00a0038ba0
+e02fd0e4-00fd-090A-ca30-0d00a0038ba
+e02fd0e4-00fd-090A-ca30-0d00a0038ba01
+
+Wrong Examples:  
+{02fa0e4-01ad-090A-c130-0d05a0008ba0}
+e02fd0e400fd090Aca300d00a0038ba0

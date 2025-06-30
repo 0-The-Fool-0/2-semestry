@@ -1,0 +1,6 @@
+Model: Mercedes, Year: 2022, Number: 2012.12
+Model: BMW, Year: 2020, Number: 6412.42
+Model: Audi, Year: 2022, Number: 2312.23
+Model: Ferrari, Year: 2022, Number: 1002.53
+Model: Lamborgini, Year: 2022, Number: 3004.20
+Model: Buggati, Year: 2022, Number: 7777.32

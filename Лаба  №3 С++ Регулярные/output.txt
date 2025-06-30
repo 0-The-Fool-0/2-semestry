@@ -1,0 +1,11 @@
+True example: - incorrect
+{e02fa0e4-01ad-090A-c130-0d05a0008ba0} - correct
+e02fd0e4-00fd-090A-ca300d00a0038ba0 - incorrect
+e02fd0e4-00fd-090A-ca30-0*00a0038ba0 - incorrect
+e02fd0e4--00fd-090A-ca30-0d00a0038ba0 - incorrect
+e02fd0e4-00fd-090A-ca30-0d00a0038ba - incorrect
+e02fd0e4-00fd-090A-ca30-0d00a0038ba01 - incorrect
+ - incorrect
+Wrong Examples:   - incorrect
+{02fa0e4-01ad-090A-c130-0d05a0008ba0} - incorrect
+e02fd0e400fd090Aca300d00a0038ba0 - incorrect

@@ -1,0 +1,12 @@
+Alice
+1
+606
+Danya
+2
+234
+Artemida
+3
+404
+Diana
+5
+101
