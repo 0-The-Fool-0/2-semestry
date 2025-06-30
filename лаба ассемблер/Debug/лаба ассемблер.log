@@ -1,0 +1,5 @@
+﻿  Assembling File.asm...
+  FileName.cpp
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(89,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(92,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  лаба ассемблер.vcxproj -> C:\Users\Redmi\source\repos\лаба ассемблер\Debug\лаба ассемблер.exe

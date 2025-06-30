@@ -1,0 +1,11 @@
+﻿  Assembling sum_digits.asm...
+sum_digits.asm(47): warning A6004: procedure argument or local not referenced : value
+sum_digits.asm(47): warning A6004: procedure argument or local not referenced : m
+  №11Короткевич№10.cpp
+№11Короткевич№10.obj : error LNK2019: ссылка на неразрешенный внешний символ _SumHighDigitsSTDCALL@8 в функции _main.
+    Указание на символы, которые определены и могут подойти:
+      _SumHighDigitsSTDCALL
+№11Короткевич№10.obj : error LNK2019: ссылка на неразрешенный внешний символ @SumHighDigitsFASTCALL@8 в функции _main.
+    Указание на символы, которые определены и могут подойти:
+      _SumHighDigitsFASTCALL
+C:\Users\Redmi\source\repos\Кр асм2\Debug\Кр асм2.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

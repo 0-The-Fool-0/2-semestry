@@ -1,0 +1,27 @@
+﻿  FileName.cpp
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(6,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,21): error C2065: Загружаем: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,40): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,42): error C2065: в: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "EAX"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(7,45): error C2065: EAX: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,9): error C2065: add: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,13): error C2065: eax: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,21): error C2065: Складываем: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "с"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,42): error C2065: с: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(8,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,21): error C2065: eax: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,26): error C2065: Сохраняем: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "результат"
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(9,45): error C2065: результат: необъявленный идентификатор
+C:\Users\Redmi\source\repos\лаба ассемблер\лаба ассемблер\FileName.cpp(10,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
