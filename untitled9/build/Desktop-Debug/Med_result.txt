@@ -1,0 +1,8 @@
+Paracetamol;10.2023;Painkiller;30;10
+Multivitamin;05.2024;Unknown;200;20
+Loratadine;01.2026;Unknown;120;20
+Ibuprofen;08.2025;Painkiller;0;10
+Cufrex;10.2022;Medicine;0;10
+Aspirin;12.2024;Painkiller;50.75;10
+Amoxicillin;05.2023;Antibiotic;0;10
+Alphabet;11.2019;Vitamin;20.3;10
