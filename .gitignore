@@ -1,0 +1,35 @@
+# Visual Studio user-specific state
+.vs/
+**/*.vcxproj.user
+**/*.vcxproj.user.*
+**/*.suo
+**/*.user
+
+# Visual Studio build outputs and compiler intermediates
+**/x64/
+**/Win32/
+**/Debug/
+**/Release/
+**/*.obj
+**/*.o
+**/*.ilk
+**/*.pdb
+**/*.idb
+**/*.exe
+**/*.dll
+**/*.tlog/
+**/*.tlog
+**/*.lastbuildstate
+**/*.recipe
+**/*.Build.CppClean.log
+**/*.nativecodeanalysis.*
+**/*.FileListAbsolute.txt
+
+# Qt Creator user state and generated builds
+**/*.pro.user
+**/*.pro.user.*
+**/build/
+
+# Common local/OS noise
+.DS_Store
+Thumbs.db
